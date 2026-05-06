@@ -1,4 +1,7 @@
 # InfinitySpread
+> [!IMPORTANT]
+> **This mod has been discontinued.**
+> Please use [AnarchyArray](https://github.com/TANGY009/AnarchyArray) instead for future updates and features.
 
 > [!NOTE]
 > **Original idea credited to [Max-RM](https://github.com/Max-RM).**
@@ -11,7 +14,6 @@
 > Once activated:
 > 🌊 A single water block becomes an ocean  
 > 🔥 One lava source becomes a continent-melting volcano  
-> 🧱 Terrain? Backups? Your hopes? All temporary  
 >
 > **Do NOT open survival worlds, long-term worlds, or anything you love.**  
 > This mod will consume everything in sight — instantly and irreversibly.
